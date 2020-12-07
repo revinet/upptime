@@ -4,12 +4,14 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Planet.moe
+  - name: 플래닛
     url: https://planet.moe/about
-  - name: Libre Wiki
+  - name: 리브레위키
     url: https://librewiki.net/wiki/사용자:-revi
   - name: ReviBlog
     url: https://wp.revi.blog
+  - name: ReviWiki
+    url: https://reviwiki.info/wiki/대문
 
 
 status-website:
@@ -31,3 +33,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 user-agent: Upptime (revinet/upptime)
+
+commitMessages:
+  commitAuthorName: "Revibot"
+  commitAuthorEmail: "github-revibot@revi.kr"
