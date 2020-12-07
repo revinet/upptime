@@ -4,9 +4,9 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: 플래닛
+  - name: planet
     url: https://planet.moe/about
-  - name: 리브레위키
+  - name: LibreWiki
     url: https://librewiki.net/wiki/사용자:-revi
   - name: ReviBlog
     url: https://wp.revi.blog
